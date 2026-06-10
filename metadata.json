@@ -1,0 +1,6 @@
+{
+  "name": "Event Feedback Manager",
+  "description": "A full-stack application to collect, store, and manage event feedback for corporate educational workshops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
