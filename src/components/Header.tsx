@@ -21,10 +21,10 @@ export default function Header({ currentTab, setTab }: HeaderProps) {
             </div>
             <div>
               <span className="font-display font-bold text-lg tracking-tight text-slate-900 block leading-tight">
-                Nexus
+                EventGauge
               </span>
               <span className="font-mono text-[10px] uppercase tracking-wider text-sky-600 block leading-none">
-                Event Center
+                Feedback Hub
               </span>
             </div>
           </div>

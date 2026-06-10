@@ -187,7 +187,7 @@ export default function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center space-y-4">
           <div className="flex justify-center items-center gap-2.5 font-bold font-display text-slate-700">
             <span className="text-sky-600 font-mono tracking-wider text-[11px] uppercase bg-slate-50 border border-slate-200 px-2 py-1 rounded">
-              Nexus Solutions
+              EventGauge
             </span>
             <span className="text-sm font-semibold text-slate-600">Event Feedback System</span>
           </div>
@@ -196,7 +196,7 @@ export default function App() {
             and constructive learner collaboration across global technical platforms.
           </p>
           <div className="text-[10px] font-mono text-slate-400 pt-1.5 border-t border-slate-50">
-            &copy; {new Date().getFullYear()} Nexus Solutions. All rights reserved.
+            &copy; {new Date().getFullYear()} EventGauge. All rights reserved.
           </div>
         </div>
       </footer>
